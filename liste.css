@@ -1,0 +1,83 @@
+
+
+.align-items{
+    background: cornflowerblue;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    padding: 50;
+}
+.align-items-center{
+    height: 100%;
+    width: 100%;
+
+    display: block;
+    text-align: center;
+background-image: radial-gradient(rgb(80, 165, 245),rgb(255, 179, 193));
+}
+    
+
+    
+
+table{
+margin:auto;
+background-color: rgb(211, 211, 211);
+}
+
+
+h1{
+    display: flex;
+    align-items: center;
+background-color: lightblue;
+justify-content: center;
+color: rgb(255, 255, 255);
+margin: auto;
+height: 200px;
+background-image: url("images/baby.gif");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+h2{color: greenyellow;
+ 
+}
+
+h3{
+    color: yellow;
+}
+h4{
+    color: tomato;
+
+}
+h5{
+color: ivory;
+}
+
+.green{
+    background-color: greenyellow;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: tomato;
+}
+.white{
+    background-color: white;
+}
+
+
+body{
+    background-color: indigo;
+    font-family: 'Gotu', sans-serif;
+}
+
+#entete{
+    padding: 1px;
+}
+
+
+#content{
+margin-left: px;
+background-color: khaki;
+}
